@@ -1,1 +1,1 @@
-# if697-2020.2
+# Repositório para a disciplina Introdução a Ciência de Dados do CIn-UFPE
