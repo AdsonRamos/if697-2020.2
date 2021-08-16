@@ -6,3 +6,6 @@ matplotlib
 jupyter
 geopandas
 scipy
+mlflow
+statsmodels
+pyngrok
